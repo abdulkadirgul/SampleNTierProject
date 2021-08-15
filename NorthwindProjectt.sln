@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NTier.DAL", "NTier.DAL\NTier.DAL.csproj", "{C8CD345C-D44A-45FA-80DF-47CB4D25A387}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NTier.BLL", "NTier.BLL\NTier.BLL.csproj", "{A7A7469B-833F-4342-BD72-98C3FFB6CFF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinUI", "WinUI\WinUI.csproj", "{B482C2B4-ECD8-43F6-AA11-357BB4CE3A9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8CD345C-D44A-45FA-80DF-47CB4D25A387}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8CD345C-D44A-45FA-80DF-47CB4D25A387}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8CD345C-D44A-45FA-80DF-47CB4D25A387}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8CD345C-D44A-45FA-80DF-47CB4D25A387}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7A7469B-833F-4342-BD72-98C3FFB6CFF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7A7469B-833F-4342-BD72-98C3FFB6CFF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7A7469B-833F-4342-BD72-98C3FFB6CFF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7A7469B-833F-4342-BD72-98C3FFB6CFF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B482C2B4-ECD8-43F6-AA11-357BB4CE3A9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B482C2B4-ECD8-43F6-AA11-357BB4CE3A9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B482C2B4-ECD8-43F6-AA11-357BB4CE3A9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B482C2B4-ECD8-43F6-AA11-357BB4CE3A9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {374D85E6-BC75-43D0-942C-68958880B7B4}
+	EndGlobalSection
+EndGlobal
